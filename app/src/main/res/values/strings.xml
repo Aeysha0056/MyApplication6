@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Application6</string>
+    <string name="user_email">Email</string>
+    <string name="user_password">password</string>
+    <string name="log_in">Log in</string>
+    <string name="create_account">Create Account</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="user_name">Name</string>
+    <string name="user_signup">Sign Up</string>
+    <string name="user_logout">Sign out</string>
+    <string name="title_activity_schedule">ScheduleActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_add_patient">AddPatientActivity</string>
+    <string name="patient_name">Patient Name</string>
+    <string name="disease_description">Disease Description</string>
+    <string name="patient_age">Age</string>
+    <string name="patient_gender">Gender</string>
+
+
+
+
+
+</resources>
